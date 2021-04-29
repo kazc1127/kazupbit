@@ -7,9 +7,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-access = "C1rTTaxUItF0gk95JQyxdjYK6mFxq6KC3lAgwUfz"          # 본인 값으로 변경
-secret = "j5NLDqoXxlwx8Dj1f9VCPLA8PcCn9xKOGPAN2gEp"          # 본인 값으로 변경
-myToken = "xoxb-1995642831781-1991947428278-VBhUgZ3dZefCddp4rQlPI7jp"
+access = "키"          # 본인 값으로 변경
+secret = "키"          # 본인 값으로 변경
+myToken = "키"
 
 def post_message(token, channel, text):
     """슬랙 메시지 전송"""
