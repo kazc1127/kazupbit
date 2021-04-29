@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 
 
-myToken = "xoxb-1995642831781-1991947428278-VBhUgZ3dZefCddp4rQlPI7jp"
+myToken = "키"
 
 def post_message(token, channel, text):
     """슬랙 메시지 전송"""
