@@ -1,1 +1,1 @@
-# kazupbit
+# kazup
